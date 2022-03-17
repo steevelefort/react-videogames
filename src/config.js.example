@@ -1,0 +1,9 @@
+const config = {
+  API: {
+    url: 'https://api.rawg.io/api/',
+    key: '',
+  },
+};
+
+export default config;
+
